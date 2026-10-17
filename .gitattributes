@@ -1,0 +1,9 @@
+*.ico binary
+build/* linguist-vendored
+node_modules/* linguist-vendored
+
+*.md linguist-documentation
+src/**/*.tsx linguist-detectable
+*.html linguist-vendored
+* text=auto   
+src/** linguist-detectable
