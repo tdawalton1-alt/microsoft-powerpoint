@@ -1,0 +1,6 @@
+.env.local
+*.tgz
+coverage/
+node_modules/
+.pnpm-store/
+build/
